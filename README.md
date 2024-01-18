@@ -1,6 +1,6 @@
 # Green-et-al.-2021-Datasets
 
-The data presented here were used in Green et al. 2021. If you download and use a given dataset cite Green at al. (2021). 
+The data presented here were used in Green et al. 2021 and Weller et al. (2020). If you download and use a given dataset cite Green at al. (2021) and Weller et al. (2020).
 
 These data were also used in Weller et al. (2024) and Weller et al. (2022). Paired pathogen data were described in Weller et al. (2020).
 
