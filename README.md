@@ -1,4 +1,4 @@
-# Green-et-al.-2021-Datasets
+# Predicting Agricultural Water Quality (PAWQ) Project Datasets
 
 The data presented here were used in Green et al. 2021 and Weller et al. (2020). If you download and use a given dataset cite Green at al. (2021) and Weller et al. (2020).
 
