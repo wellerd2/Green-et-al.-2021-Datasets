@@ -1,6 +1,8 @@
 # Predicting Agricultural Water Quality (PAWQ) Project Datasets
 
-The data presented here were used in Green et al. 2021 and Weller et al. (2020). If you download and use a given dataset cite Green at al. (2021) and Weller et al. (2020).
+The data presented here were used in Green et al. 2021 and Weller et al. (2020). If you download and use a given dataset cite Green at al. (2021) and Weller et al. (2020) as well as this github (see bwlow).
+
+GitHub Citation: Weller, D. *, A. Belias, H. Green, S. Roof and M. Wiedmann. 2024. Predicting agricultural water quality (PAWQ) project datasets. https://github.com/wellerd2/Green-et-al.-2021-Datasets. 
 
 These data were also used in Weller et al. (2024) and Weller et al. (2022). Paired pathogen data were described in Weller et al. (2020).
 
