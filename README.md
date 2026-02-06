@@ -1,17 +1,18 @@
 # Predicting Agricultural Water Quality (PAWQ) Project Datasets
 
-The data presented here were used in Green et al. 2021 and Weller et al. (2020). If you download and use a given dataset cite Green at al. (2021) and Weller et al. (2020) as well as this github (see bwlow).
+The data presented here were used in Green et al. 2021 and Weller et al. (2020). 
 
-GitHub Citation: Weller, D. *, A. Belias, H. Green, S. Roof and M. Wiedmann. 2024. Predicting agricultural water quality (PAWQ) project datasets. https://github.com/wellerd2/Green-et-al.-2021-Datasets. 
+## Citation
+If you download and use a given dataset cite Green at al. (2021) and Weller et al. (2020) as well as this github (see below).
 
-These data were also used in Weller et al. (2024) and Weller et al. (2022). Paired pathogen data were described in Weller et al. (2020).
+### GitHub Citation
+1. Weller, D. *, A. Belias, H. Green, S. Roof and M. Wiedmann. 2024. Predicting agricultural water quality (PAWQ) project datasets. https://github.com/wellerd2/Green-et-al.-2021-Datasets. DOI: 10.5281/zenodo.18500867. 
 
-Citation:
+### Manuscript Citations
+1. Green H, Wilder M, Wiedmann M and Weller D (2021) Integrative Survey of 68 Non-overlapping Upstate New York Watersheds Reveals Stream Features Associated With Aquatic Fecal Contamination. Front. Microbiol. 12:684533. doi: 10.3389/fmicb.2021.684533. https://www.frontiersin.org/articles/10.3389/fmicb.2021.684533/full
+2. Weller, D., A. Belias, H. Green, S. Roof, and M. Wiedmann. 2020. Landscape, water quality, and weather factors associated with an increased likelihood of foodborne pathogen contamination of New York streams used to source water for produce production. Frontiers in Sustainable Food Systems. (3) 124. https://www.frontiersin.org/articles/10.3389/fsufs.2019.00124/full
 
-Green H, Wilder M, Wiedmann M and Weller D (2021) Integrative Survey of 68 Non-overlapping Upstate New York Watersheds Reveals Stream Features Associated With Aquatic Fecal Contamination. Front. Microbiol. 12:684533. doi: 10.3389/fmicb.2021.684533. https://www.frontiersin.org/articles/10.3389/fmicb.2021.684533/full
-
-Weller, D., A. Belias, H. Green, S. Roof, and M. Wiedmann. 2020. Landscape, water quality, and weather factors associated with an increased likelihood of foodborne pathogen contamination of New York streams used to source water for produce production. Frontiers in Sustainable Food Systems. (3) 124. https://www.frontiersin.org/articles/10.3389/fsufs.2019.00124/full
-
-Weller, D. L., T. M. T. Love, D. E. Weller, C. Murphy, B. Rahm, and M. Wiedmann. 2022. Structural equation models suggest that on-farm non-crop vegetation removal is not associated with improved food safety outcomes but is linked to impaired water quality. Applied and Environmental Microbiology (88): e0160022.https://journals.asm.org/doi/full/10.1128/aem.01600-22?af=R
-
-Weller, D., C. Murphy, T. Love, M. Danyluk, and L. Strawn. 2024. Methodological differences between studies confound one-size-fits-all approaches to managing surface waterways for food and water safety. Applied and Environmental Microbiology. In-press. https://journals.asm.org/doi/10.1128/aem.01835-23
+### These data were also used in
+1. Weller, D. L., C. M. Murphy, T. M. T. Love, M. D. Danyluk, and L. K. Strawn. 2024. Methodological differences between studies confound one-size-fits-all approaches to managing surface waterways for food and water safety. Appl Environ Microbiol. https://journals.asm.org/doi/10.1128/aem.01835-23
+2. Murphy, C. M., D. L. Weller, T. M. T. Love, M. D. Danyluk, and L. K. Strawn. 2025. The probability of detecting host-specific microbial source tracking markers in surface waters was strongly associated with method and season. Microbiol Spectr. https://doi.org/10.1128/spectrum.01972-24
+3. Weller, D. L., T. M. T. Love, D. E. Weller, C. Murphy, B. Rahm, and M. Wiedmann. 2022. Structural equation models suggest that on-farm non-crop vegetation removal is not associated with improved food safety outcomes but is linked to impaired water quality. Applied and Environmental Microbiology (88): e0160022.https://journals.asm.org/doi/full/10.1128/aem.01600-22?af=R
